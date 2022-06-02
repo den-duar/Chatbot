@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF8"?>
+<aiml version="1.0">
+<!-- -->
+<!-- Free software (c) 2011 ALICE A.I. Foundation.   -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License     -->
+<!-- as published by the Free Software Foundation.   -->
+<!-- Complies with AIML 1.0 Tag Set Specification -->
+<!-- as adopted by the ALICE A.I. Foundation.  -->
+<!-- Last modified 11/23/2011 -->
+<!-- -->
+
+<category>
+   <pattern>* DISPENSA * DISCIPLINA </pattern>
+   <template> Através do portal do aluno online, na aba Helpdesk  </template>
+</category>
+
+<category>
+   <pattern>* INICIO * SEMESTRE</pattern>
+   <template> Entre a primeira ou segunda semana de agosto.  </template>
+</category>
+
+<category>
+   <pattern>* COLAÇÃO DE GRAU ESPECIAL </pattern>
+   <template> Assim que sai o calendário acadêmico na coordenação </template>
+</category>
+
+<category>
+   <pattern>* AJUSTE * </pattern>
+   <template> Uma semana antes dos inicio da primeira avaliação procure a coordenação </template>
+</category>
+
+<category>
+   <pattern>* APROVEITAMENTO * </pattern>
+   <template> Uma semana antes dos inicio da primeira avaliação procure a coordenação </template>
+</category>
+
+<category>
+   <pattern>* FALAR * COORDENAÇÃO </pattern>
+   <template> O secretario sempre chega de 13 ás 22h e o meio de comunicação ou telefone da instituição, email e WhatsApp pessoal do secretario.  </template>
+</category>
+
+<category>
+   <pattern>* CONTATO * COORDENAÇÃO </pattern>
+   <template> O secretario sempre chega de 13 ás 22h e o meio de comunicação ou telefone da instituição, email e WhatsApp pessoal do secretario. </template>
+</category>
+
+<category>
+   <pattern>* ESTAGIO </pattern>
+   <template> Tudo depende do desenvolvimento do aluno. </template>
+</category>
+
+<category>
+   <pattern>* ESTAGIAR </pattern>
+   <template> Tudo depende do desenvolvimento do aluno. </template>
+</category>
+
+<category>
+   <pattern>* ÚLTIMO * ESTAGIAR * </pattern>
+   <template> O curso tem um projeto que é a fábrica de software, do professor Gláucio, pra justamente ajudar os alunos nessas situações.  </template>
+</category>
+
+<category>
+   <pattern>* ÚLTIMO * ESTAGIO * </pattern>
+   <template> O curso tem um projeto que é a fábrica de software, do professor Gláucio, pra justamente ajudar os alunos nessas situações.  </template>
+</category>
+
+<category>
+   <pattern>* PRESENCIAL </pattern>
+   <template> Sim. Os EAD são Analise e Desenvolvimento de sistemas e Gestão de Tecnologia da Informação.  </template>
+</category>
+
+<category>
+   <pattern>* MATRICULA * </pattern>
+   <template> Através do portal do aluno online em matricula.  </template>
+</category>
+
+<category>
+   <pattern>* FINANCEIRO * COORDENAÇÃO * </pattern>
+   <template> Todas as questões financeiras devem ser resolvidas com o departamento financeiro.  </template>
+</category>
+
+<category>
+   <pattern>* TRANSFERINDO * UNIESP * </pattern>
+   <template> Precisamos realizar uma analise do seu Histórico. Assim saberemos quais disciplinas irá cursa e dispensar.  </template>
+</category>
+
+<category>
+   <pattern>* TRANSFERENCIA * UNIESP * </pattern>
+   <template> Precisamos realizar uma analise do seu Histórico. Assim saberemos quais disciplinas irá cursa e dispensar.  </template>
+</category>
+
+<category>
+   <pattern>* EAD * ACESSO * </pattern>
+   <template> A coordenação do curso de EAD manda o e-mail com login e senha para o aluno ter acesso do portal AVA.  </template>
+</category>
+
+<category>
+   <pattern>* HORAS COMPLEMENTARES * </pattern>
+   <template> Enviando através do portal do aluno online seus certificados de palestras, cursos de exceções e entre outros.  </template>
+</category>
+
+<category>
+   <pattern>* REPOR * </pattern>
+   <template> O aluno tem direito a uma reposição por periodo. Caso perca uma prova deve realizar a outra.  </template>
+</category>
+
+<category>
+   <pattern>* REPOSIÇÃO * </pattern>
+   <template> O aluno tem direito a uma reposição por periodo. Caso perca uma prova deve realizar a outra.  </template>
+</category>
+
+<category>
+   <pattern>* VALOR * </pattern>
+   <template> Sistema para Internet – R$472,98 | Sistema de Informação - R$902,95  </template>
+</category>
+
+<category>
+   <pattern>* DESCONTO * </pattern>
+   <template> Para saber sobre descontos você deve procurar o setor comercial  </template>
+</category>
+
+<category>
+   <pattern> QUANTOS PERIODOS * </pattern>
+   <template> O de Sistema pra internet são 5 períodos totalizando 2 anos e meio, o de sistema de Informação são 8 períodos totalizando 4 anos.  </template>
+</category>
+
+<category>
+   <pattern>* SISTEMAS PARA INTERNET * SISTEMAS DE INFORMAÇÃO </pattern>
+   <template> Sim, nesse caso muitas disciplinas serão dispensadas e o aluno ingressa como segunda graduação na instituição.  </template>
+</category>
+
+<category>
+   <pattern>* FALTAS * </pattern>
+   <template> No máximo 25% de faltas. Para abonar não pode ser mais de 50%. Precisa-se enviar os atestados ou motivos que justifiquem ausencia para a coordenação  </template>
+</category>
+
+<category>
+   <pattern>* INGRESSO * </pattern>
+   <template> Através do vestibular da instituição, transferência de outra instituição ou nota do ENEM  </template>
+</category>
+
+<category>
+   <pattern>* INGRESSAR * </pattern>
+   <template> Através do vestibular da instituição, transferência de outra instituição ou nota do ENEM  </template>
+</category>
+
+<category>
+   <pattern>*PARTICIPAR * COLAÇÃO DE GRAU </pattern>
+   <template> O aluno é obrigado a assinar a ata pra receber o diploma. A cerimonia de colação fica a seu criterio a participação  </template>
+</category>
+
+
+</aiml>
